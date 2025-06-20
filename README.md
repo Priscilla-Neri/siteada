@@ -55,7 +55,8 @@ As cores, tipografia e espaçamento foram escolhidos para garantir uma boa exper
   <img src="https://user-images.githubusercontent.com/SEU_ID/preview-siteada.png" alt="preview do site" width="700px">
 </p>
 
-*👉 (Dica: Faça um print da página aberta no navegador, suba a imagem na aba Issues ou diretamente no repositório e use o link da imagem aqui.)*
+![image](https://github.com/user-attachments/assets/6e3027be-1e46-446b-9042-afe149edef81)
+
 
 ---
 
